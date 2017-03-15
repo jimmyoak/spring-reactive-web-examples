@@ -12,7 +12,7 @@ Just some small examples of how to Spring Reactive with RxJava, RxJava2 and Reac
 
 Server sets up on [http://localhost:8080](http://localhost:8080)
 
-##Endpoints
+## Endpoints
 
 **IMPORTANT**: Add header `Accept: text/event-stream` for the event-stream responses
 
